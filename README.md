@@ -12,7 +12,7 @@ Current type of rewards:
 
 1. ```mkdir DQN-Forex```
 
-2. ```git clone https://github.com/brunorabelo/DQN-Forex.git```
+2. ```git clone https://github.com/SilverLightn/DQN_forex.git```
 3. ```cd DQN-Forex```
 4. ```virtualenv venv```
 5. ```source venv/bin/activate```
