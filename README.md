@@ -21,13 +21,3 @@ Current type of rewards:
 ### run code:
 
 ```python3 main.py```
-
-
-# Description:
-It is still in development.
-
-# Future work:
-- [ ] Add more reward types
-- [ ] Use more data
-- [ ] Use different window times
-- [ ] Use a set for testing and apply backtesting
